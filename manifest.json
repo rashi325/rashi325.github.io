@@ -1,11 +1,11 @@
 {
-    "name": "consumer",
-    "short_name": "consumer",
+    "name": "SelfCheckout",
+    "short_name": "SelfCheckout",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Flutter based RDEP Self Checkout App",
+    "background_color": "#d33091",
+    "theme_color": "#d33091",
+    "description": "RDEP Self Checkout App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
